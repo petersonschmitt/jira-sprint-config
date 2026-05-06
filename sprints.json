@@ -1,11 +1,11 @@
 {
-  "version": 1778106015536,
-  "lastUpdated": "2026-05-06T22:20:15.536Z",
+  "version": 1778106157648,
+  "lastUpdated": "2026-05-06T22:22:37.648Z",
   "sprints": [
     {
       "id": "c7fded02-96f9-448c-9a81-7d5b0fbe3d5b",
-      "name": "Teste",
-      "color": "#0052CC",
+      "name": "Sprint teste 001",
+      "color": "#57D9A3",
       "issues": [
         "DTSFASAPP-9113",
         "DTSFASAPP-8844",
