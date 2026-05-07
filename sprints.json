@@ -1,6 +1,6 @@
 {
-  "version": 1778157026423,
-  "lastUpdated": "2026-05-07T12:30:26.423Z",
+  "version": 1778158622915,
+  "lastUpdated": "2026-05-07T12:57:02.915Z",
   "sprints": [
     {
       "id": "c7fded02-96f9-448c-9a81-7d5b0fbe3d5b",
@@ -29,7 +29,8 @@
       "name": "Testeeeeee",
       "color": "#00B8D9",
       "issues": [
-        "DTSFASAPP-9334"
+        "DTSFASAPP-9334",
+        "DTSFASAPP-9384"
       ],
       "enabled": true
     }
