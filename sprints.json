@@ -1,6 +1,6 @@
 {
-  "version": 1778152498592,
-  "lastUpdated": "2026-05-07T11:14:58.592Z",
+  "version": 1778154200911,
+  "lastUpdated": "2026-05-07T11:43:20.911Z",
   "sprints": [
     {
       "id": "c7fded02-96f9-448c-9a81-7d5b0fbe3d5b",
@@ -17,7 +17,7 @@
     {
       "id": "2d6db831-f8a8-4012-a51c-16883fa6cd95",
       "name": "Sprint teste 002",
-      "color": "#FF5630",
+      "color": "#c72eff",
       "issues": [
         "DTSFASAPP-9384",
         "DTSFASAPP-9363",
