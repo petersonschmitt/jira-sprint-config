@@ -1,6 +1,6 @@
 {
-  "version": 1778158622915,
-  "lastUpdated": "2026-05-07T12:57:02.915Z",
+  "version": 1778163081495,
+  "lastUpdated": "2026-05-07T14:11:21.495Z",
   "sprints": [
     {
       "id": "c7fded02-96f9-448c-9a81-7d5b0fbe3d5b",
@@ -12,7 +12,7 @@
         "DTSFASAPP-9358",
         "DTSFASAPP-9205"
       ],
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "2d6db831-f8a8-4012-a51c-16883fa6cd95",
@@ -22,17 +22,7 @@
         "DTSFASAPP-9363",
         "DTSFASAPP-9333"
       ],
-      "enabled": true
-    },
-    {
-      "id": "c1fc2fae-8b13-4e6a-b8a9-13eae918ca32",
-      "name": "Testeeeeee",
-      "color": "#00B8D9",
-      "issues": [
-        "DTSFASAPP-9334",
-        "DTSFASAPP-9384"
-      ],
-      "enabled": true
+      "enabled": false
     }
   ]
 }
