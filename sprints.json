@@ -1,21 +1,5 @@
 {
-  "version": 1778758747167,
-  "lastUpdated": "2026-05-14T11:39:07.167Z",
-  "sprints": [
-    {
-      "id": "c7fded02-96f9-448c-9a81-7d5b0fbe3d5b",
-      "name": "Sprint teste 001",
-      "color": "#FF5630",
-      "issues": [
-        "DTSFASAPP-9113",
-        "DTSFASAPP-8844",
-        "DTSFASAPP-9358",
-        "DTSFASAPP-9205",
-        "DTSFASAPP-9334",
-        "DTSFASAPP-9312"
-      ],
-      "enabled": true,
-      "active": true
-    }
-  ]
+  "version": 1778758847655,
+  "lastUpdated": "2026-05-14T11:40:47.655Z",
+  "sprints": []
 }
