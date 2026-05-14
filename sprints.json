@@ -1,14 +1,15 @@
 {
-  "version": 1778758995637,
-  "lastUpdated": "2026-05-14T11:43:15.637Z",
+  "version": 1778763372509,
+  "lastUpdated": "2026-05-14T12:56:12.509Z",
   "sprints": [
     {
       "id": "a85ffc32-567b-497f-95fb-742baac6bb69",
-      "name": "Sprint_10_06_26",
+      "name": "Entrega_10_06_26",
       "color": "#0052CC",
       "issues": [
         "DTSFASAPP-9374",
-        "DTSFASAPP-9228"
+        "DTSFASAPP-9228",
+        "DTSFASAPP-8960"
       ],
       "enabled": true,
       "active": true
