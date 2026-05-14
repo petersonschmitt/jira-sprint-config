@@ -1,6 +1,6 @@
 {
-  "version": 1778763385577,
-  "lastUpdated": "2026-05-14T12:56:25.577Z",
+  "version": 1778763488991,
+  "lastUpdated": "2026-05-14T12:58:08.991Z",
   "sprints": [
     {
       "id": "a85ffc32-567b-497f-95fb-742baac6bb69",
@@ -14,6 +14,17 @@
       ],
       "enabled": true,
       "active": true
+    },
+    {
+      "id": "34dc9287-3d52-43d6-b379-e6b42e7fe472",
+      "name": "CNPJ_15_06_26",
+      "color": "#FF5630",
+      "issues": [
+        "DTSFASAPP-9358",
+        "DTSFASAPP-9100",
+        "DTSFASAPP-9438"
+      ],
+      "enabled": true
     }
   ]
 }
