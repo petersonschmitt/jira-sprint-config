@@ -1,22 +1,5 @@
 {
-  "version": 1779194785785,
-  "lastUpdated": "2026-05-19T12:46:25.785Z",
-  "sprints": [
-    {
-      "id": "a85ffc32-567b-497f-95fb-742baac6bb69",
-      "name": "Entrega_10_06_26",
-      "color": "#0052CC",
-      "issues": [
-        "DTSFASAPP-9374",
-        "DTSFASAPP-9228",
-        "DTSFASAPP-8960",
-        "DTSFASAPP-9017",
-        "DTSFASAPP-9113"
-      ],
-      "enabled": true,
-      "active": true,
-      "deliveryDate": "2026-06-10",
-      "createdAt": "2026-05-14"
-    }
-  ]
+  "version": 1779194788884,
+  "lastUpdated": "2026-05-19T12:46:28.884Z",
+  "sprints": []
 }
