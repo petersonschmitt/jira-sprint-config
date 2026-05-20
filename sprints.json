@@ -1,19 +1,5 @@
 {
-  "version": 1779284835653,
-  "lastUpdated": "2026-05-20T13:47:15.653Z",
-  "sprints": [
-    {
-      "id": "b6b79815-dbf9-487a-b2fa-9eaf7f4bb534",
-      "name": "Fechamento 21/05/26",
-      "color": "#6554C0",
-      "issues": [
-        "DTSFASAPP-8844",
-        "DTSFASAPP-9113",
-        "DTSFASAPP-9333"
-      ],
-      "enabled": true,
-      "createdAt": "2026-05-20",
-      "deliveryDate": "2026-05-21"
-    }
-  ]
+  "version": 1779284838092,
+  "lastUpdated": "2026-05-20T13:47:18.092Z",
+  "sprints": []
 }
