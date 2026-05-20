@@ -1,6 +1,6 @@
 {
-  "version": 1779283055895,
-  "lastUpdated": "2026-05-20T13:17:35.895Z",
+  "version": 1779283282156,
+  "lastUpdated": "2026-05-20T13:21:22.156Z",
   "sprints": [
     {
       "id": "12da7f80-4b39-4f60-be38-48194bc8e6c9",
@@ -28,17 +28,6 @@
       "enabled": true,
       "createdAt": "2026-05-20",
       "deliveryDate": "2026-06-29"
-    },
-    {
-      "id": "51852f2d-d8e2-47c2-8fe5-3a3b2b5d4777",
-      "name": "Teste Peterson",
-      "color": "#7000cc",
-      "issues": [
-        "DTSFASAPP-9333"
-      ],
-      "enabled": true,
-      "createdAt": "2026-05-20",
-      "deliveryDate": "2026-05-30"
     }
   ]
 }
