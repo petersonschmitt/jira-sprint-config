@@ -1,6 +1,6 @@
 {
-  "version": 1779302999486,
-  "lastUpdated": "2026-05-20T18:49:59.486Z",
+  "version": 1779303007513,
+  "lastUpdated": "2026-05-20T18:50:07.513Z",
   "sprints": [
     {
       "id": "80802157-751e-45aa-b06f-e5ed4948819f",
@@ -18,6 +18,17 @@
       "active": true
     },
     {
+      "id": "1f9af4fd-9278-4b80-80ad-2f26c39c7854",
+      "name": "teste 2",
+      "color": "#6554C0",
+      "issues": [
+        "DTSFASAPP-9438"
+      ],
+      "enabled": true,
+      "createdAt": "2026-05-20",
+      "deliveryDate": "2026-06-26"
+    },
+    {
       "id": "07c820b7-f8f2-400c-ac3f-c7b650453376",
       "name": "Teste",
       "color": "#FF7452",
@@ -30,17 +41,6 @@
       "createdAt": "2026-05-20",
       "deliveryDate": "2026-07-03",
       "active": true
-    },
-    {
-      "id": "1f9af4fd-9278-4b80-80ad-2f26c39c7854",
-      "name": "teste 2",
-      "color": "#6554C0",
-      "issues": [
-        "DTSFASAPP-9438"
-      ],
-      "enabled": true,
-      "createdAt": "2026-05-20",
-      "deliveryDate": "2026-06-26"
     }
   ]
 }
