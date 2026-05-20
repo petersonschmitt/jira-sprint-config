@@ -1,6 +1,6 @@
 {
-  "version": 1779296526982,
-  "lastUpdated": "2026-05-20T17:02:06.982Z",
+  "version": 1779297039260,
+  "lastUpdated": "2026-05-20T17:10:39.260Z",
   "sprints": [
     {
       "id": "07c820b7-f8f2-400c-ac3f-c7b650453376",
@@ -12,6 +12,20 @@
       "enabled": true,
       "createdAt": "2026-05-20",
       "deliveryDate": "2026-06-26"
+    },
+    {
+      "id": "80802157-751e-45aa-b06f-e5ed4948819f",
+      "name": "LAR_DATAdaDATA_27/06",
+      "color": "#36B37E",
+      "issues": [
+        "DTSFASAPP-9466",
+        "DTSFASAPP-9467",
+        "DTSFASAPP-9468",
+        "DTSFASAPP-9469"
+      ],
+      "enabled": true,
+      "createdAt": "2026-05-20",
+      "deliveryDate": "2026-06-27"
     }
   ]
 }
