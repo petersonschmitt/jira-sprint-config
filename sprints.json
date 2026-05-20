@@ -1,6 +1,6 @@
 {
-  "version": 1779282306362,
-  "lastUpdated": "2026-05-20T13:05:06.362Z",
+  "version": 1779282332869,
+  "lastUpdated": "2026-05-20T13:05:32.869Z",
   "sprints": [
     {
       "id": "12da7f80-4b39-4f60-be38-48194bc8e6c9",
@@ -18,15 +18,16 @@
       "deliveryDate": "2026-06-19"
     },
     {
-      "id": "d9801fec-a70d-4c17-ac1b-709efde0e810",
-      "name": "Teste",
-      "color": "#FF5630",
+      "id": "b0431092-676b-4ce6-b56a-cf1bf851ffb6",
+      "name": "Regressivos",
+      "color": "#FFAB00",
       "issues": [
-        "DTSFASAPP-9333"
+        "DTSFASAPP-9438",
+        "DTSFASAPP-9141"
       ],
       "enabled": true,
       "createdAt": "2026-05-20",
-      "deliveryDate": "2026-05-23"
+      "deliveryDate": "2026-06-29"
     }
   ]
 }
