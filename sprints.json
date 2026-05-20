@@ -1,19 +1,7 @@
 {
-  "version": 1779284832910,
-  "lastUpdated": "2026-05-20T13:47:12.910Z",
+  "version": 1779284835653,
+  "lastUpdated": "2026-05-20T13:47:15.653Z",
   "sprints": [
-    {
-      "id": "b0431092-676b-4ce6-b56a-cf1bf851ffb6",
-      "name": "Regressivos",
-      "color": "#FFAB00",
-      "issues": [
-        "DTSFASAPP-9438",
-        "DTSFASAPP-9141"
-      ],
-      "enabled": true,
-      "createdAt": "2026-05-20",
-      "deliveryDate": "2026-06-29"
-    },
     {
       "id": "b6b79815-dbf9-487a-b2fa-9eaf7f4bb534",
       "name": "Fechamento 21/05/26",
