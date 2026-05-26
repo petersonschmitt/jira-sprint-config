@@ -1,16 +1,14 @@
 {
-  "version": 1779718705268,
-  "lastUpdated": "2026-05-25T14:18:25.268Z",
+  "version": 1779823614463,
+  "lastUpdated": "2026-05-26T19:26:54.463Z",
   "sprints": [
     {
       "id": "80802157-751e-45aa-b06f-e5ed4948819f",
-      "name": "LAR_DATAdaDATA_27/05",
-      "color": "#FF7452",
+      "name": "DEV_03/06",
+      "color": "#FF5630",
       "issues": [
         "DTSFASAPP-9466",
-        "DTSFASAPP-9467",
-        "DTSFASAPP-9468",
-        "DTSFASAPP-9469"
+        "DTSFASAPP-9468"
       ],
       "enabled": true,
       "createdAt": "2026-05-20",
