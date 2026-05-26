@@ -1,6 +1,6 @@
 {
-  "version": 1779823761461,
-  "lastUpdated": "2026-05-26T19:29:21.461Z",
+  "version": 1779829335373,
+  "lastUpdated": "2026-05-26T21:02:15.373Z",
   "sprints": [
     {
       "id": "80802157-751e-45aa-b06f-e5ed4948819f",
@@ -14,17 +14,6 @@
       "createdAt": "2026-05-20",
       "deliveryDate": "2026-05-27",
       "active": true
-    },
-    {
-      "id": "1f9af4fd-9278-4b80-80ad-2f26c39c7854",
-      "name": "teste 2",
-      "color": "#6554C0",
-      "issues": [
-        "DTSFASAPP-9438"
-      ],
-      "enabled": true,
-      "createdAt": "2026-05-20",
-      "deliveryDate": "2026-06-26"
     },
     {
       "id": "07c820b7-f8f2-400c-ac3f-c7b650453376",
