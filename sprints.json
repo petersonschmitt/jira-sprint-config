@@ -1,6 +1,6 @@
 {
-  "version": 1779823748854,
-  "lastUpdated": "2026-05-26T19:29:08.854Z",
+  "version": 1779823761461,
+  "lastUpdated": "2026-05-26T19:29:21.461Z",
   "sprints": [
     {
       "id": "80802157-751e-45aa-b06f-e5ed4948819f",
@@ -58,7 +58,7 @@
     },
     {
       "id": "e5c2d087-8821-4bda-93d4-44b2540b7406",
-      "name": "LAR_12/06",
+      "name": "LAR_Entrega_12/06",
       "color": "#57D9A3",
       "issues": [
         "DTSFASAPP-9466",
