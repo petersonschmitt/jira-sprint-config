@@ -1,6 +1,6 @@
 {
-  "version": 1779823714027,
-  "lastUpdated": "2026-05-26T19:28:34.027Z",
+  "version": 1779823748854,
+  "lastUpdated": "2026-05-26T19:29:08.854Z",
   "sprints": [
     {
       "id": "80802157-751e-45aa-b06f-e5ed4948819f",
@@ -58,15 +58,16 @@
     },
     {
       "id": "e5c2d087-8821-4bda-93d4-44b2540b7406",
-      "name": "ENTREGA 12/06",
-      "color": "#0052CC",
+      "name": "LAR_12/06",
+      "color": "#57D9A3",
       "issues": [
         "DTSFASAPP-9466",
         "DTSFASAPP-9468"
       ],
       "enabled": true,
       "createdAt": "2026-05-26",
-      "deliveryDate": "2026-06-12"
+      "deliveryDate": "2026-06-12",
+      "active": true
     }
   ]
 }
