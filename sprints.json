@@ -1,6 +1,6 @@
 {
-  "version": 1779973417929,
-  "lastUpdated": "2026-05-28T13:03:37.929Z",
+  "version": 1779973428323,
+  "lastUpdated": "2026-05-28T13:03:48.323Z",
   "sprints": [
     {
       "id": "93d747f8-1a48-4a59-a3ff-ef57f61b442a",
@@ -24,6 +24,18 @@
       "enabled": true,
       "createdAt": "2026-05-20",
       "deliveryDate": "2026-06-03",
+      "active": true
+    },
+    {
+      "id": "a82521ea-e0bd-4e1f-b8de-99ad5fc49a73",
+      "name": "Entregas 08/06/26",
+      "color": "#6554C0",
+      "issues": [
+        "DTSFASAPP-9205"
+      ],
+      "enabled": true,
+      "createdAt": "2026-05-27",
+      "deliveryDate": "2026-06-08",
       "active": true
     },
     {
@@ -52,18 +64,6 @@
       "enabled": true,
       "createdAt": "2026-05-26",
       "deliveryDate": "2026-06-12",
-      "active": true
-    },
-    {
-      "id": "a82521ea-e0bd-4e1f-b8de-99ad5fc49a73",
-      "name": "Entregas 08/06/26",
-      "color": "#6554C0",
-      "issues": [
-        "DTSFASAPP-9205"
-      ],
-      "enabled": true,
-      "createdAt": "2026-05-27",
-      "deliveryDate": "2026-06-08",
       "active": true
     },
     {
