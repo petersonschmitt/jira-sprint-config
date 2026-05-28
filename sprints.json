@@ -1,6 +1,6 @@
 {
-  "version": 1779973428323,
-  "lastUpdated": "2026-05-28T13:03:48.323Z",
+  "version": 1779973437911,
+  "lastUpdated": "2026-05-28T13:03:57.911Z",
   "sprints": [
     {
       "id": "93d747f8-1a48-4a59-a3ff-ef57f61b442a",
@@ -67,6 +67,17 @@
       "active": true
     },
     {
+      "id": "77bc5519-545c-4bfd-aaac-18f92344b142",
+      "name": "AssaAbloy_15/06/26",
+      "color": "#36B37E",
+      "issues": [
+        "DTSFASAPP-9363"
+      ],
+      "enabled": true,
+      "createdAt": "2026-05-27",
+      "deliveryDate": "2026-06-15"
+    },
+    {
       "id": "8430c62a-7cd0-4b79-bd40-9938285f8be5",
       "name": "29/06_Fechamento2607",
       "color": "#0052CC",
@@ -81,17 +92,6 @@
       "createdAt": "2026-05-27",
       "deliveryDate": "2026-06-29",
       "active": true
-    },
-    {
-      "id": "77bc5519-545c-4bfd-aaac-18f92344b142",
-      "name": "AssaAbloy_15/06/26",
-      "color": "#36B37E",
-      "issues": [
-        "DTSFASAPP-9363"
-      ],
-      "enabled": true,
-      "createdAt": "2026-05-27",
-      "deliveryDate": "2026-06-15"
     },
     {
       "id": "1be23f68-480b-419b-92e0-92706e4397f0",
