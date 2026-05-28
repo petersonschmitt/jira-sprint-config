@@ -1,6 +1,6 @@
 {
-  "version": 1779973437911,
-  "lastUpdated": "2026-05-28T13:03:57.911Z",
+  "version": 1779973455943,
+  "lastUpdated": "2026-05-28T13:04:15.943Z",
   "sprints": [
     {
       "id": "93d747f8-1a48-4a59-a3ff-ef57f61b442a",
@@ -25,6 +25,17 @@
       "createdAt": "2026-05-20",
       "deliveryDate": "2026-06-03",
       "active": true
+    },
+    {
+      "id": "1be23f68-480b-419b-92e0-92706e4397f0",
+      "name": "Frimesa_05/06/26",
+      "color": "#FF5630",
+      "issues": [
+        "DTSFASAPP-9447"
+      ],
+      "enabled": true,
+      "createdAt": "2026-05-27",
+      "deliveryDate": "2026-06-05"
     },
     {
       "id": "a82521ea-e0bd-4e1f-b8de-99ad5fc49a73",
@@ -92,17 +103,6 @@
       "createdAt": "2026-05-27",
       "deliveryDate": "2026-06-29",
       "active": true
-    },
-    {
-      "id": "1be23f68-480b-419b-92e0-92706e4397f0",
-      "name": "Frimesa_05/06/26",
-      "color": "#FF5630",
-      "issues": [
-        "DTSFASAPP-9447"
-      ],
-      "enabled": true,
-      "createdAt": "2026-05-27",
-      "deliveryDate": "2026-06-05"
     }
   ]
 }
