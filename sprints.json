@@ -1,7 +1,18 @@
 {
-  "version": 1779973409191,
-  "lastUpdated": "2026-05-28T13:03:29.191Z",
+  "version": 1779973417929,
+  "lastUpdated": "2026-05-28T13:03:37.929Z",
   "sprints": [
+    {
+      "id": "93d747f8-1a48-4a59-a3ff-ef57f61b442a",
+      "name": "Frimesa_29/05",
+      "color": "#FF7452",
+      "issues": [
+        "DTSFASAPP-9334"
+      ],
+      "enabled": true,
+      "createdAt": "2026-05-27",
+      "deliveryDate": "2026-05-29"
+    },
     {
       "id": "80802157-751e-45aa-b06f-e5ed4948819f",
       "name": "DEV_03/06",
@@ -42,17 +53,6 @@
       "createdAt": "2026-05-26",
       "deliveryDate": "2026-06-12",
       "active": true
-    },
-    {
-      "id": "93d747f8-1a48-4a59-a3ff-ef57f61b442a",
-      "name": "Frimesa_29/05",
-      "color": "#FF7452",
-      "issues": [
-        "DTSFASAPP-9334"
-      ],
-      "enabled": true,
-      "createdAt": "2026-05-27",
-      "deliveryDate": "2026-05-29"
     },
     {
       "id": "a82521ea-e0bd-4e1f-b8de-99ad5fc49a73",
