@@ -1,6 +1,6 @@
 {
-  "version": 1779973765614,
-  "lastUpdated": "2026-05-28T13:09:25.614Z",
+  "version": 1779976914938,
+  "lastUpdated": "2026-05-28T14:01:54.938Z",
   "sprints": [
     {
       "id": "93d747f8-1a48-4a59-a3ff-ef57f61b442a",
@@ -104,6 +104,17 @@
       "createdAt": "2026-05-27",
       "deliveryDate": "2026-06-29",
       "active": true
+    },
+    {
+      "id": "99c8e008-e0d5-4fdc-a3f5-9e727e2ca1fd",
+      "name": "19-06",
+      "color": "#cc00b1",
+      "issues": [
+        "DTSFASAPP-9452"
+      ],
+      "enabled": true,
+      "createdAt": "2026-05-28",
+      "deliveryDate": "2026-06-19"
     }
   ]
 }
