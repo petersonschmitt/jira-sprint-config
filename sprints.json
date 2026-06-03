@@ -1,6 +1,6 @@
 {
-  "version": 1780517315835,
-  "lastUpdated": "2026-06-03T20:08:35.835Z",
+  "version": 1780517328314,
+  "lastUpdated": "2026-06-03T20:08:48.314Z",
   "sprints": [
     {
       "id": "80802157-751e-45aa-b06f-e5ed4948819f",
@@ -137,7 +137,9 @@
       "enabled": true,
       "createdAt": "2026-06-03",
       "deliveryDate": null,
-      "active": false
+      "active": false,
+      "concluded": true,
+      "concludedAt": "2026-06-03T20:08:47.850Z"
     }
   ]
 }
