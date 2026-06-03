@@ -1,6 +1,6 @@
 {
-  "version": 1779976914938,
-  "lastUpdated": "2026-05-28T14:01:54.938Z",
+  "version": 1780494025475,
+  "lastUpdated": "2026-06-03T13:40:25.475Z",
   "sprints": [
     {
       "id": "93d747f8-1a48-4a59-a3ff-ef57f61b442a",
@@ -115,6 +115,17 @@
       "enabled": true,
       "createdAt": "2026-05-28",
       "deliveryDate": "2026-06-19"
+    },
+    {
+      "id": "3f8455f2-ff5b-482c-9be2-65a3e517fdb7",
+      "name": "Fechamento-13-07",
+      "color": "#FFAB00",
+      "issues": [
+        "DTSFASAPP-9136"
+      ],
+      "enabled": true,
+      "createdAt": "2026-06-03",
+      "deliveryDate": "2026-07-03"
     }
   ]
 }
