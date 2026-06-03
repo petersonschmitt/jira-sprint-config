@@ -1,6 +1,6 @@
 {
-  "version": 1780494025475,
-  "lastUpdated": "2026-06-03T13:40:25.475Z",
+  "version": 1780496217834,
+  "lastUpdated": "2026-06-03T14:16:57.834Z",
   "sprints": [
     {
       "id": "93d747f8-1a48-4a59-a3ff-ef57f61b442a",
@@ -126,6 +126,15 @@
       "enabled": true,
       "createdAt": "2026-06-03",
       "deliveryDate": "2026-07-03"
+    },
+    {
+      "id": "c7943f56-acd6-4a1c-9637-860bef5253cf",
+      "name": "teste",
+      "color": "#BF2600",
+      "issues": [],
+      "enabled": true,
+      "createdAt": "2026-06-03",
+      "deliveryDate": null
     }
   ]
 }
