@@ -1,20 +1,7 @@
 {
-  "version": 1780517339418,
-  "lastUpdated": "2026-06-03T20:08:59.418Z",
+  "version": 1780664948297,
+  "lastUpdated": "2026-06-05T13:09:08.297Z",
   "sprints": [
-    {
-      "id": "80802157-751e-45aa-b06f-e5ed4948819f",
-      "name": "DEV_03/06",
-      "color": "#FF5630",
-      "issues": [
-        "DTSFASAPP-9466",
-        "DTSFASAPP-9468"
-      ],
-      "enabled": true,
-      "createdAt": "2026-05-20",
-      "deliveryDate": "2026-06-03",
-      "active": true
-    },
     {
       "id": "1be23f68-480b-419b-92e0-92706e4397f0",
       "name": "Frimesa_05/06/26",
