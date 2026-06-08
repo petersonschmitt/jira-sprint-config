@@ -1,6 +1,6 @@
 {
-  "version": 1780665107703,
-  "lastUpdated": "2026-06-05T13:11:47.703Z",
+  "version": 1780926793831,
+  "lastUpdated": "2026-06-08T13:53:13.831Z",
   "sprints": [
     {
       "id": "c1c944dc-ebb2-444b-a386-8b3993cecffd",
@@ -90,6 +90,17 @@
       "enabled": true,
       "createdAt": "2026-06-03",
       "deliveryDate": "2026-06-12"
+    },
+    {
+      "id": "cdcd76c5-fd7a-433b-88c5-efadb7223842",
+      "name": "Entrega 23/07",
+      "color": "#57D9A3",
+      "issues": [
+        "DTSFASAPP-9457"
+      ],
+      "enabled": true,
+      "createdAt": "2026-06-08",
+      "deliveryDate": null
     }
   ]
 }
