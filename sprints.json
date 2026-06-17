@@ -1,6 +1,6 @@
 {
-  "version": 1781699120843,
-  "lastUpdated": "2026-06-17T12:25:20.843Z",
+  "version": 1781699125606,
+  "lastUpdated": "2026-06-17T12:25:25.606Z",
   "sprints": [
     {
       "id": "c1c944dc-ebb2-444b-a386-8b3993cecffd",
@@ -29,17 +29,6 @@
       "createdAt": "2026-05-26",
       "deliveryDate": "2026-06-12",
       "active": true
-    },
-    {
-      "id": "77bc5519-545c-4bfd-aaac-18f92344b142",
-      "name": "AssaAbloy_15/06/26",
-      "color": "#36B37E",
-      "issues": [
-        "DTSFASAPP-9363"
-      ],
-      "enabled": true,
-      "createdAt": "2026-05-27",
-      "deliveryDate": "2026-06-15"
     },
     {
       "id": "8430c62a-7cd0-4b79-bd40-9938285f8be5",
