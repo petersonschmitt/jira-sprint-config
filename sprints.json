@@ -1,6 +1,6 @@
 {
-  "version": 1781696523980,
-  "lastUpdated": "2026-06-17T11:42:03.980Z",
+  "version": 1781696579459,
+  "lastUpdated": "2026-06-17T11:42:59.459Z",
   "sprints": [
     {
       "id": "c1c944dc-ebb2-444b-a386-8b3993cecffd",
@@ -107,11 +107,14 @@
       "id": "e3adb18e-b284-49a4-914c-2b499dc18f0c",
       "name": "(Peter) Teste conclusao",
       "color": "#E774BB",
-      "issues": [],
+      "issues": [
+        "DTSFASAPP-9328"
+      ],
       "enabled": true,
       "createdAt": "2026-06-17",
       "deliveryDate": "2026-07-11",
-      "doneColumn": "Desenv. Concluído"
+      "doneColumn": "Desenv. Concluído",
+      "active": true
     }
   ]
 }
