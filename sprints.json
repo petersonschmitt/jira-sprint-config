@@ -1,6 +1,6 @@
 {
-  "version": 1781699479399,
-  "lastUpdated": "2026-06-17T12:31:19.399Z",
+  "version": 1781699485859,
+  "lastUpdated": "2026-06-17T12:31:25.859Z",
   "sprints": [
     {
       "id": "8430c62a-7cd0-4b79-bd40-9938285f8be5",
@@ -32,17 +32,6 @@
       "deliveryDate": "2026-07-03"
     },
     {
-      "id": "cdcd76c5-fd7a-433b-88c5-efadb7223842",
-      "name": "Entrega 23/07",
-      "color": "#57D9A3",
-      "issues": [
-        "DTSFASAPP-9457"
-      ],
-      "enabled": true,
-      "createdAt": "2026-06-08",
-      "deliveryDate": null
-    },
-    {
       "id": "76d67c7b-b6c2-4167-97b8-ad38d42ee99c",
       "name": "17-07-Fechamento",
       "color": "#0052CC",
@@ -52,6 +41,17 @@
       "enabled": true,
       "createdAt": "2026-06-17",
       "deliveryDate": "2026-07-17"
+    },
+    {
+      "id": "cdcd76c5-fd7a-433b-88c5-efadb7223842",
+      "name": "Entrega 23/07",
+      "color": "#57D9A3",
+      "issues": [
+        "DTSFASAPP-9457"
+      ],
+      "enabled": true,
+      "createdAt": "2026-06-08",
+      "deliveryDate": null
     }
   ]
 }
