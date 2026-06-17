@@ -1,21 +1,7 @@
 {
-  "version": 1781699125606,
-  "lastUpdated": "2026-06-17T12:25:25.606Z",
+  "version": 1781699132670,
+  "lastUpdated": "2026-06-17T12:25:32.671Z",
   "sprints": [
-    {
-      "id": "c1c944dc-ebb2-444b-a386-8b3993cecffd",
-      "name": "LAR_TESTE_09/06",
-      "color": "#FFAB00",
-      "issues": [
-        "DTSFASAPP-9466",
-        "DTSFASAPP-9468",
-        "DTSFASAPP-8844"
-      ],
-      "enabled": true,
-      "createdAt": "2026-05-26",
-      "deliveryDate": "2026-06-09",
-      "active": true
-    },
     {
       "id": "e5c2d087-8821-4bda-93d4-44b2540b7406",
       "name": "LAR_Entrega_12/06",
