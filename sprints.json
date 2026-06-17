@@ -1,21 +1,7 @@
 {
-  "version": 1781699142181,
-  "lastUpdated": "2026-06-17T12:25:42.181Z",
+  "version": 1781699149067,
+  "lastUpdated": "2026-06-17T12:25:49.067Z",
   "sprints": [
-    {
-      "id": "e5c2d087-8821-4bda-93d4-44b2540b7406",
-      "name": "LAR_Entrega_12/06",
-      "color": "#57D9A3",
-      "issues": [
-        "DTSFASAPP-9466",
-        "DTSFASAPP-9468",
-        "DTSFASAPP-8844"
-      ],
-      "enabled": true,
-      "createdAt": "2026-05-26",
-      "deliveryDate": "2026-06-12",
-      "active": true
-    },
     {
       "id": "8430c62a-7cd0-4b79-bd40-9938285f8be5",
       "name": "29/06_Fechamento2607",
