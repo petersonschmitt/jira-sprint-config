@@ -1,6 +1,6 @@
 {
-  "version": 1782912297356,
-  "lastUpdated": "2026-07-01T13:24:57.356Z",
+  "version": 1783542614567,
+  "lastUpdated": "2026-07-08T20:30:14.567Z",
   "sprints": [
     {
       "id": "8430c62a-7cd0-4b79-bd40-9938285f8be5",
@@ -78,7 +78,8 @@
       "name": "31-07-Fechamento",
       "color": "#E774BB",
       "issues": [
-        "DTSFASAPP-9593"
+        "DTSFASAPP-9593",
+        "DTSFASAPP-9420"
       ],
       "enabled": true,
       "createdAt": "2026-07-01",
