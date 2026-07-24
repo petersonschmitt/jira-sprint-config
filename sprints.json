@@ -1,21 +1,7 @@
 {
-  "version": 1784921264235,
-  "lastUpdated": "2026-07-24T19:27:44.235Z",
+  "version": 1784921267681,
+  "lastUpdated": "2026-07-24T19:27:47.681Z",
   "sprints": [
-    {
-      "id": "76d67c7b-b6c2-4167-97b8-ad38d42ee99c",
-      "name": "17-07-Fechamento",
-      "color": "#FFAB00",
-      "issues": [
-        "DTSFASAPP-9245",
-        "DTSFASAPP-9136"
-      ],
-      "enabled": true,
-      "createdAt": "2026-06-17",
-      "deliveryDate": "2026-07-17",
-      "active": true,
-      "doneColumn": "Expedido"
-    },
     {
       "id": "cdcd76c5-fd7a-433b-88c5-efadb7223842",
       "name": "Entrega 23/07",
