@@ -1,6 +1,6 @@
 {
-  "version": 1786543570530,
-  "lastUpdated": "2026-08-12T14:06:10.530Z",
+  "version": 1787170850444,
+  "lastUpdated": "2026-08-19T20:20:50.444Z",
   "sprints": [
     {
       "id": "00899835-2327-4f1f-b48a-18b8bec9c949",
@@ -67,12 +67,14 @@
       "name": "04_09-Fechamento",
       "color": "#FF5630",
       "issues": [
-        "DTSFASAPP-9704"
+        "DTSFASAPP-9704",
+        "DTSFASAPP-9470"
       ],
       "enabled": true,
       "createdAt": "2026-08-12",
       "deliveryDate": "2026-09-04",
-      "doneColumn": null
+      "doneColumn": null,
+      "active": true
     }
   ]
 }
