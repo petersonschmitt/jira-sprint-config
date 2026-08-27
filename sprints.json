@@ -1,6 +1,6 @@
 {
-  "version": 1787837466256,
-  "lastUpdated": "2026-08-27T13:31:06.256Z",
+  "version": 1787837484079,
+  "lastUpdated": "2026-08-27T13:31:24.079Z",
   "sprints": [
     {
       "id": "237257a6-dcf7-413b-a088-64c8ea8c3b48",
@@ -32,18 +32,6 @@
       "active": true
     },
     {
-      "id": "e654d3e0-7a5a-4fea-8df8-3c2529cae1d2",
-      "name": "25-09-Fechamento",
-      "color": "#0052CC",
-      "issues": [
-        "DTSFASAPP-9732"
-      ],
-      "enabled": true,
-      "createdAt": "2026-08-25",
-      "deliveryDate": "2026-09-25",
-      "doneColumn": null
-    },
-    {
       "id": "bdf9118e-ae63-4b1c-8c3e-389c62877a74",
       "name": "DEV - Conclusão",
       "color": "#FFC400",
@@ -65,6 +53,18 @@
       "enabled": true,
       "createdAt": "2026-08-26",
       "deliveryDate": "2026-09-18",
+      "doneColumn": null
+    },
+    {
+      "id": "e654d3e0-7a5a-4fea-8df8-3c2529cae1d2",
+      "name": "25-09-Fechamento",
+      "color": "#0052CC",
+      "issues": [
+        "DTSFASAPP-9732"
+      ],
+      "enabled": true,
+      "createdAt": "2026-08-25",
+      "deliveryDate": "2026-09-25",
       "doneColumn": null
     },
     {
