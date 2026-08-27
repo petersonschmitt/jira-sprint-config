@@ -1,6 +1,6 @@
 {
-  "version": 1787837682784,
-  "lastUpdated": "2026-08-27T13:34:42.784Z",
+  "version": 1787838271779,
+  "lastUpdated": "2026-08-27T13:44:31.779Z",
   "sprints": [
     {
       "id": "237257a6-dcf7-413b-a088-64c8ea8c3b48",
@@ -59,6 +59,16 @@
       "deliveryDate": "2026-09-25",
       "doneColumn": "Expedido",
       "active": true
+    },
+    {
+      "id": "0cf71c5d-5da4-42d0-b09f-1492e73676a3",
+      "name": "05-10_Embramaco",
+      "color": "#172B4D",
+      "issues": [],
+      "enabled": true,
+      "createdAt": "2026-08-27",
+      "deliveryDate": "2026-10-05",
+      "doneColumn": null
     }
   ]
 }
