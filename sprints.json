@@ -1,6 +1,6 @@
 {
-  "version": 1788372772731,
-  "lastUpdated": "2026-09-02T18:12:52.731Z",
+  "version": 1788378543618,
+  "lastUpdated": "2026-09-02T19:49:03.618Z",
   "sprints": [
     {
       "id": "237257a6-dcf7-413b-a088-64c8ea8c3b48",
@@ -66,7 +66,8 @@
       "color": "#E774BB",
       "issues": [
         "DTSFASAPP-9616",
-        "DTSFASAPP-9729"
+        "DTSFASAPP-9729",
+        "DTSFASAPP-9778"
       ],
       "enabled": true,
       "createdAt": "2026-09-02",
