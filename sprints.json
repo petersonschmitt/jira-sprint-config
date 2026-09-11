@@ -1,6 +1,6 @@
 {
-  "version": 1789137282930,
-  "lastUpdated": "2026-09-11T14:34:42.930Z",
+  "version": 1789150290685,
+  "lastUpdated": "2026-09-11T18:11:30.685Z",
   "sprints": [
     {
       "id": "237257a6-dcf7-413b-a088-64c8ea8c3b48",
@@ -85,6 +85,18 @@
       "createdAt": "2026-09-02",
       "deliveryDate": "2026-10-09",
       "doneColumn": "Expedido"
+    },
+    {
+      "id": "b450ff24-cb41-4cad-9cfe-049a5076a6bb",
+      "name": "Teste peterson",
+      "color": "#0052CC",
+      "issues": [
+        "DTSFASAPP-9615"
+      ],
+      "enabled": true,
+      "createdAt": "2026-09-11",
+      "deliveryDate": "2026-10-09",
+      "doneColumn": "Ref. técnico concluído"
     }
   ]
 }
