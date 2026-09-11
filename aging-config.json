@@ -1,11 +1,11 @@
 {
-  "version": 1789157993910,
-  "lastUpdated": "2026-09-11T20:19:53.910Z",
+  "version": 1789158036039,
+  "lastUpdated": "2026-09-11T20:20:36.039Z",
   "low": 70,
   "medium": 40,
   "high": 21,
   "critical": 21,
-  "alertWindow": 30,
+  "alertWindow": 15,
   "clientFixedMeta": 0,
   "stopColumn": "Expedido"
 }
