@@ -1,9 +1,9 @@
 {
-  "version": 1789156179729,
-  "lastUpdated": "2026-09-11T19:49:39.729Z",
+  "version": 1789157517749,
+  "lastUpdated": "2026-09-11T20:11:57.749Z",
   "low": 70,
-  "medium": 41,
-  "high": 27,
+  "medium": 40,
+  "high": 21,
   "critical": 21,
   "alertWindow": 30,
   "clientFixedMeta": 70,
