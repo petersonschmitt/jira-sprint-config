@@ -1,0 +1,9 @@
+{
+  "version": 1789136973429,
+  "lastUpdated": "2026-09-11T14:29:33.430Z",
+  "low": 70,
+  "medium": 41,
+  "high": 27,
+  "critical": 21,
+  "stopColumn": "Expedido"
+}
