@@ -1,6 +1,6 @@
 {
-  "version": 1789150361043,
-  "lastUpdated": "2026-09-11T18:12:41.043Z",
+  "version": 1789150377492,
+  "lastUpdated": "2026-09-11T18:12:57.492Z",
   "sprints": [
     {
       "id": "237257a6-dcf7-413b-a088-64c8ea8c3b48",
@@ -91,8 +91,7 @@
       "name": "Teste peterson",
       "color": "#0052CC",
       "issues": [
-        "DTSFASAPP-9615",
-        "DTSFASAPP-9818"
+        "DTSFASAPP-9615"
       ],
       "enabled": true,
       "createdAt": "2026-09-11",
