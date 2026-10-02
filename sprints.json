@@ -1,6 +1,6 @@
 {
-  "version": 1790860172801,
-  "lastUpdated": "2026-10-01T13:09:32.801Z",
+  "version": 1790944476911,
+  "lastUpdated": "2026-10-02T12:34:36.911Z",
   "sprints": [
     {
       "id": "237257a6-dcf7-413b-a088-64c8ea8c3b48",
@@ -136,18 +136,6 @@
       "doneColumn": "Expedido"
     },
     {
-      "id": "095a00dd-e3bf-4c94-a25c-956d171a76d4",
-      "name": "03-11-Fechamento",
-      "color": "#6554C0",
-      "issues": [
-        "DTSFASAPP-9778"
-      ],
-      "enabled": true,
-      "createdAt": "2026-10-01",
-      "deliveryDate": "2026-11-03",
-      "doneColumn": "Expedido"
-    },
-    {
       "id": "cd434965-aea7-4427-b0e3-f43e9ac0df71",
       "name": "07-10-DANCOR",
       "color": "#0052CC",
@@ -169,6 +157,18 @@
       "enabled": true,
       "createdAt": "2026-10-01",
       "deliveryDate": "2026-10-23",
+      "doneColumn": "Expedido"
+    },
+    {
+      "id": "095a00dd-e3bf-4c94-a25c-956d171a76d4",
+      "name": "03-11-Fechamento",
+      "color": "#6554C0",
+      "issues": [
+        "DTSFASAPP-9778"
+      ],
+      "enabled": true,
+      "createdAt": "2026-10-01",
+      "deliveryDate": "2026-11-03",
       "doneColumn": "Expedido"
     }
   ]
