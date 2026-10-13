@@ -1,6 +1,6 @@
 {
-  "version": 1791379692603,
-  "lastUpdated": "2026-10-07T13:28:12.603Z",
+  "version": 1791891246469,
+  "lastUpdated": "2026-10-13T11:34:06.469Z",
   "sprints": [
     {
       "id": "237257a6-dcf7-413b-a088-64c8ea8c3b48",
@@ -14,19 +14,6 @@
       "enabled": true,
       "createdAt": "2026-07-01",
       "deliveryDate": "2026-08-07",
-      "doneColumn": "Expedido",
-      "active": true
-    },
-    {
-      "id": "437db813-8522-466b-a01a-78f20f8bafb3",
-      "name": "30-09_Kapazi - Fechamento",
-      "color": "#0052CC",
-      "issues": [
-        "DTSFASAPP-9709"
-      ],
-      "enabled": true,
-      "createdAt": "2026-09-16",
-      "deliveryDate": "2026-09-30",
       "doneColumn": "Expedido",
       "active": true
     },
