@@ -1,6 +1,6 @@
 {
-  "version": 1791982873659,
-  "lastUpdated": "2026-10-14T13:01:13.659Z",
+  "version": 1791983588156,
+  "lastUpdated": "2026-10-14T13:13:08.156Z",
   "sprints": [
     {
       "id": "237257a6-dcf7-413b-a088-64c8ea8c3b48",
@@ -82,6 +82,18 @@
       "createdAt": "2026-10-07",
       "deliveryDate": "2026-10-30",
       "doneColumn": "Expedido"
+    },
+    {
+      "id": "28d9a69f-9f55-46e9-b7bc-6d03ce755ed3",
+      "name": "14-12-Embramaco",
+      "color": "#0052CC",
+      "issues": [
+        "DTSFASAPP-10070"
+      ],
+      "enabled": true,
+      "createdAt": "2026-10-14",
+      "deliveryDate": "2026-12-14",
+      "doneColumn": null
     }
   ]
 }
