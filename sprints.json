@@ -1,6 +1,6 @@
 {
-  "version": 1791983588156,
-  "lastUpdated": "2026-10-14T13:13:08.156Z",
+  "version": 1791983626296,
+  "lastUpdated": "2026-10-14T13:13:46.296Z",
   "sprints": [
     {
       "id": "237257a6-dcf7-413b-a088-64c8ea8c3b48",
@@ -94,6 +94,18 @@
       "createdAt": "2026-10-14",
       "deliveryDate": "2026-12-14",
       "doneColumn": null
+    },
+    {
+      "id": "7727ede8-c86b-4a44-9fcf-08a90b0f5adc",
+      "name": "21-12-PADRAO",
+      "color": "#E774BB",
+      "issues": [
+        "DTSFASAPP-10071"
+      ],
+      "enabled": true,
+      "createdAt": "2026-10-14",
+      "deliveryDate": "2026-12-21",
+      "doneColumn": "Expedido"
     }
   ]
 }
