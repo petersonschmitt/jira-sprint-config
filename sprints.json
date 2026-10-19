@@ -1,6 +1,6 @@
 {
-  "version": 1792411411168,
-  "lastUpdated": "2026-10-19T12:03:31.168Z",
+  "version": 1792411488900,
+  "lastUpdated": "2026-10-19T12:04:48.900Z",
   "sprints": [
     {
       "id": "237257a6-dcf7-413b-a088-64c8ea8c3b48",
@@ -93,7 +93,8 @@
       "enabled": true,
       "createdAt": "2026-10-19",
       "deliveryDate": "2026-11-19",
-      "doneColumn": "Concluído"
+      "doneColumn": "Concluído",
+      "active": true
     },
     {
       "id": "28d9a69f-9f55-46e9-b7bc-6d03ce755ed3",
