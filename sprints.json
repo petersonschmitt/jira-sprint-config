@@ -1,6 +1,6 @@
 {
-  "version": 1792422247534,
-  "lastUpdated": "2026-10-19T15:04:07.534Z",
+  "version": 1792422255113,
+  "lastUpdated": "2026-10-19T15:04:15.113Z",
   "sprints": [
     {
       "id": "237257a6-dcf7-413b-a088-64c8ea8c3b48",
@@ -135,10 +135,12 @@
       "active": true
     },
     {
-      "id": "86611dc3-321e-48e0-82c8-cd4196131476",
+      "id": "27db8a55-9625-44f9-8ad9-52ae9df514dc",
       "name": "15-12_Coamo",
       "color": "#0052CC",
-      "issues": [],
+      "issues": [
+        "DTSFASAPP-10104"
+      ],
       "enabled": true,
       "createdAt": "2026-10-19",
       "deliveryDate": "2026-12-15",
