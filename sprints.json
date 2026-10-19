@@ -1,6 +1,6 @@
 {
-  "version": 1792413997708,
-  "lastUpdated": "2026-10-19T12:46:37.708Z",
+  "version": 1792422247534,
+  "lastUpdated": "2026-10-19T15:04:07.534Z",
   "sprints": [
     {
       "id": "237257a6-dcf7-413b-a088-64c8ea8c3b48",
@@ -133,6 +133,16 @@
       "deliveryDate": "2026-12-21",
       "doneColumn": "Expedido",
       "active": true
+    },
+    {
+      "id": "86611dc3-321e-48e0-82c8-cd4196131476",
+      "name": "15-12_Coamo",
+      "color": "#0052CC",
+      "issues": [],
+      "enabled": true,
+      "createdAt": "2026-10-19",
+      "deliveryDate": "2026-12-15",
+      "doneColumn": "Expedido"
     }
   ]
 }
