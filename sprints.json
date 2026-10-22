@@ -1,6 +1,6 @@
 {
-  "version": 1792695209689,
-  "lastUpdated": "2026-10-22T18:53:29.689Z",
+  "version": 1792695220539,
+  "lastUpdated": "2026-10-22T18:53:40.539Z",
   "sprints": [
     {
       "id": "237257a6-dcf7-413b-a088-64c8ea8c3b48",
@@ -85,6 +85,18 @@
       "active": true
     },
     {
+      "id": "d4135eec-5fe4-448c-972a-5878f31b31e5",
+      "name": "24_11_Plastex",
+      "color": "#0052CC",
+      "issues": [
+        "DTSFASAPP-10044"
+      ],
+      "enabled": true,
+      "createdAt": "2026-10-22",
+      "deliveryDate": "2026-11-24",
+      "doneColumn": "Expedido"
+    },
+    {
       "id": "28d9a69f-9f55-46e9-b7bc-6d03ce755ed3",
       "name": "14-12-Embramaco",
       "color": "#0052CC",
@@ -121,18 +133,6 @@
       "deliveryDate": "2026-12-21",
       "doneColumn": "Expedido",
       "active": true
-    },
-    {
-      "id": "d4135eec-5fe4-448c-972a-5878f31b31e5",
-      "name": "24_11_Plastex",
-      "color": "#0052CC",
-      "issues": [
-        "DTSFASAPP-10044"
-      ],
-      "enabled": true,
-      "createdAt": "2026-10-22",
-      "deliveryDate": "2026-11-24",
-      "doneColumn": "Expedido"
     }
   ]
 }
