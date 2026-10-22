@@ -1,6 +1,6 @@
 {
-  "version": 1792672723785,
-  "lastUpdated": "2026-10-22T12:38:43.785Z",
+  "version": 1792695209689,
+  "lastUpdated": "2026-10-22T18:53:29.689Z",
   "sprints": [
     {
       "id": "237257a6-dcf7-413b-a088-64c8ea8c3b48",
@@ -121,6 +121,18 @@
       "deliveryDate": "2026-12-21",
       "doneColumn": "Expedido",
       "active": true
+    },
+    {
+      "id": "d4135eec-5fe4-448c-972a-5878f31b31e5",
+      "name": "24_11_Plastex",
+      "color": "#0052CC",
+      "issues": [
+        "DTSFASAPP-10044"
+      ],
+      "enabled": true,
+      "createdAt": "2026-10-22",
+      "deliveryDate": "2026-11-24",
+      "doneColumn": "Expedido"
     }
   ]
 }
