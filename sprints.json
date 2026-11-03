@@ -1,6 +1,6 @@
 {
-  "version": 1793709782635,
-  "lastUpdated": "2026-11-03T12:43:02.635Z",
+  "version": 1793709787462,
+  "lastUpdated": "2026-11-03T12:43:07.462Z",
   "sprints": [
     {
       "id": "237257a6-dcf7-413b-a088-64c8ea8c3b48",
@@ -111,6 +111,18 @@
       "doneColumn": null
     },
     {
+      "id": "c50537ba-301f-4b2d-a1a7-c6025952779c",
+      "name": "27_11_Plastex",
+      "color": "#57D9A3",
+      "issues": [
+        "DTSFASAPP-10121"
+      ],
+      "enabled": true,
+      "createdAt": "2026-10-26",
+      "deliveryDate": "2026-11-27",
+      "doneColumn": "Expedido"
+    },
+    {
       "id": "27db8a55-9625-44f9-8ad9-52ae9df514dc",
       "name": "15-12_Coamo",
       "color": "#0052CC",
@@ -135,18 +147,6 @@
       "deliveryDate": "2026-12-21",
       "doneColumn": "Expedido",
       "active": true
-    },
-    {
-      "id": "c50537ba-301f-4b2d-a1a7-c6025952779c",
-      "name": "27_11_Plastex",
-      "color": "#57D9A3",
-      "issues": [
-        "DTSFASAPP-10121"
-      ],
-      "enabled": true,
-      "createdAt": "2026-10-26",
-      "deliveryDate": "2026-11-27",
-      "doneColumn": "Expedido"
     },
     {
       "id": "afbf9b22-6170-4bca-ac33-d08a92e3db9c",
