@@ -1,6 +1,6 @@
 {
-  "version": 1793709790449,
-  "lastUpdated": "2026-11-03T12:43:10.449Z",
+  "version": 1794226735784,
+  "lastUpdated": "2026-11-09T12:18:55.784Z",
   "sprints": [
     {
       "id": "237257a6-dcf7-413b-a088-64c8ea8c3b48",
@@ -158,6 +158,19 @@
       "enabled": true,
       "createdAt": "2026-11-03",
       "deliveryDate": "2026-12-04",
+      "doneColumn": "Concluído"
+    },
+    {
+      "id": "a5146f0e-b315-4766-a9ce-47339991582f",
+      "name": "07-01-Fechamento",
+      "color": "#FF7452",
+      "issues": [
+        "DTSFASAPP-10202",
+        "DTSFASAPP-10198"
+      ],
+      "enabled": true,
+      "createdAt": "2026-11-09",
+      "deliveryDate": "2027-01-07",
       "doneColumn": "Concluído"
     }
   ]
