@@ -1,6 +1,6 @@
 {
-  "version": 1794226735784,
-  "lastUpdated": "2026-11-09T12:18:55.784Z",
+  "version": 1794229593642,
+  "lastUpdated": "2026-11-09T13:06:33.642Z",
   "sprints": [
     {
       "id": "237257a6-dcf7-413b-a088-64c8ea8c3b48",
@@ -172,6 +172,18 @@
       "createdAt": "2026-11-09",
       "deliveryDate": "2027-01-07",
       "doneColumn": "Concluído"
+    },
+    {
+      "id": "54403b15-f227-4a33-9016-2af82ee0d5d6",
+      "name": "12-01-Lar",
+      "color": "#172B4D",
+      "issues": [
+        "DTSFASAPP-9980"
+      ],
+      "enabled": true,
+      "createdAt": "2026-11-09",
+      "deliveryDate": "2027-01-12",
+      "doneColumn": null
     }
   ]
 }
